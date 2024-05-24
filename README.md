@@ -46,7 +46,7 @@ O desafio consiste na implementação de um CRUD (Create, Read, Update, Delete) 
 ## Observações
 
 - Não é necessário entregar o desafio completo, queremos apenas analisar a lógica de desenvolvimento, mas o que entregar, será considerado um diferencial.
-- O tempo total para realização do desafio é de 1h30, iniciando às 9h.
+- O tempo total para realização do desafio é de 1h30.
 - Qualquer problema técnico durante o desafio, por favor, entre em contato com a equipe de T.I que estará no local.
 
 ## Critérios de Avaliação
