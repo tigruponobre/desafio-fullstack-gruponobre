@@ -1,6 +1,7 @@
 # TABELA DE AVALIAÇÃO — DESAFIO FULL STACK GRUPO NOBRE
 
 ## Nome:
+## Total:
 
 ## AVALIAÇÃO GERAL
 
@@ -51,3 +52,7 @@ Cada critério será avaliado de 0 a 5, onde:
 - **5**: Atende de forma excelente
 
 A pontuação total será a soma das avaliações de todos os critérios. Isso permitirá uma análise mais clara e objetiva do desempenho de cada projeto.
+
+## Para visualização completa do README instale a extensão para chrome `Markdown Viewer` e permita a visualização de arquivos locais 
+[Markdown Viewer](https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
+ - _`Deixa em darkmode para melhor visualização`_
